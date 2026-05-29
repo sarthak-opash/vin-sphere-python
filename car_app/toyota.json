@@ -1,0 +1,272 @@
+{
+    "manufacturer": "Toyota",
+    "wmi": {
+        "JT1": {
+            "manufacturer": "Toyota",
+            "country": "Japan",
+            "vehicle_type": "Passenger Car"
+        },
+        "JT2": {
+            "manufacturer": "Toyota",
+            "country": "Japan",
+            "vehicle_type": "Passenger Car"
+        },
+        "JT3": {
+            "manufacturer": "Toyota",
+            "country": "Japan",
+            "vehicle_type": "SUV"
+        },
+        "JTD": {
+            "manufacturer": "Toyota",
+            "country": "Japan",
+            "vehicle_type": "Passenger Car"
+        },
+        "JTE": {
+            "manufacturer": "Toyota",
+            "country": "Japan",
+            "vehicle_type": "SUV"
+        },
+        "2T1": {
+            "manufacturer": "Toyota",
+            "country": "Canada",
+            "vehicle_type": "Passenger Car"
+        },
+        "2T3": {
+            "manufacturer": "Toyota",
+            "country": "Canada",
+            "vehicle_type": "SUV"
+        },
+        "4T1": {
+            "manufacturer": "Toyota",
+            "country": "USA",
+            "vehicle_type": "Passenger Car"
+        },
+        "4T3": {
+            "manufacturer": "Toyota",
+            "country": "USA",
+            "vehicle_type": "SUV"
+        },
+        "5TD": {
+            "manufacturer": "Toyota",
+            "country": "USA",
+            "vehicle_type": "SUV"
+        },
+        "5TF": {
+            "manufacturer": "Toyota",
+            "country": "USA",
+            "vehicle_type": "Truck"
+        },
+        "MR0": {
+            "manufacturer": "Toyota",
+            "country": "Thailand",
+            "vehicle_type": "Pickup"
+        },
+        "AHT": {
+            "manufacturer": "Toyota",
+            "country": "South Africa",
+            "vehicle_type": "SUV"
+        },
+        "SB1": {
+            "manufacturer": "Toyota",
+            "country": "United Kingdom",
+            "vehicle_type": "Passenger Car"
+        },
+        "NMT": {
+            "manufacturer": "Toyota",
+            "country": "Turkey",
+            "vehicle_type": "Passenger Car"
+        }
+    },
+    "position_4": {
+        "A": "Corolla Series",
+        "B": "Camry Series",
+        "C": "RAV4 Series",
+        "D": "Hilux Series",
+        "E": "Fortuner Series",
+        "F": "Land Cruiser Series",
+        "G": "Yaris Series",
+        "H": "Innova Series",
+        "J": "Prius Series",
+        "K": "Avalon Series",
+        "L": "Lexus Platform Series",
+        "M": "MPV Series",
+        "N": "Crossover Series",
+        "P": "Performance Series",
+        "Q": "Urban Cruiser Series",
+        "R": "Rush Series",
+        "S": "Sport Series",
+        "T": "Touring Series",
+        "U": "Utility Series",
+        "V": "Van Series",
+        "W": "Wagon Series",
+        "X": "SUV Series",
+        "Y": "Hybrid Series",
+        "Z": "GR Performance Series"
+    },
+    "position_5": {
+        "A": {
+            "body_type": "Sedan",
+            "possible_models": [
+                "Corolla",
+                "Corolla Altis"
+            ]
+        },
+        "B": {
+            "body_type": "Sedan",
+            "possible_models": [
+                "Camry",
+                "Avalon"
+            ]
+        },
+        "C": {
+            "body_type": "SUV",
+            "possible_models": [
+                "RAV4",
+                "Harrier"
+            ]
+        },
+        "D": {
+            "body_type": "Pickup",
+            "possible_models": [
+                "Hilux"
+            ]
+        },
+        "E": {
+            "body_type": "SUV",
+            "possible_models": [
+                "Fortuner"
+            ]
+        },
+        "F": {
+            "body_type": "SUV",
+            "possible_models": [
+                "Land Cruiser",
+                "Prado"
+            ]
+        },
+        "G": {
+            "body_type": "Hatchback",
+            "possible_models": [
+                "Yaris",
+                "Vitz"
+            ]
+        },
+        "H": {
+            "body_type": "MPV",
+            "possible_models": [
+                "Innova",
+                "Innova Crysta"
+            ]
+        },
+        "J": {
+            "body_type": "Hybrid",
+            "possible_models": [
+                "Prius"
+            ]
+        },
+        "K": {
+            "body_type": "Sedan",
+            "possible_models": [
+                "Avalon"
+            ]
+        },
+        "M": {
+            "body_type": "MPV",
+            "possible_models": [
+                "Sienna"
+            ]
+        },
+        "R": {
+            "body_type": "SUV",
+            "possible_models": [
+                "Rush"
+            ]
+        },
+        "X": {
+            "body_type": "SUV",
+            "possible_models": [
+                "Highlander",
+                "Kluger"
+            ]
+        },
+        "Y": {
+            "body_type": "Hybrid",
+            "possible_models": [
+                "Camry Hybrid",
+                "Corolla Hybrid"
+            ]
+        }
+    },
+    "position_6": {
+        "1": "1.3L Petrol",
+        "2": "1.5L Petrol",
+        "3": "1.8L Petrol",
+        "4": "2.0L Petrol",
+        "5": "2.4L Petrol",
+        "6": "2.5L Petrol",
+        "7": "2.8L Diesel",
+        "8": "Hybrid",
+        "9": "Performance Engine"
+    },
+    "position_7": {
+        "A": "Base Trim",
+        "B": "Mid Trim",
+        "C": "Premium Trim",
+        "D": "Safety Package",
+        "E": "Luxury Package",
+        "F": "GR Sport Package",
+        "G": "Adventure Package",
+        "H": "Executive Package",
+        "P": "Premium Safety Package",
+        "R": "Luxury Safety Package"
+    },
+    "position_8": {
+        "A": {
+            "drive_type": "FWD",
+            "transmission": "Manual"
+        },
+        "B": {
+            "drive_type": "FWD",
+            "transmission": "Automatic"
+        },
+        "C": {
+            "drive_type": "FWD",
+            "transmission": "CVT"
+        },
+        "D": {
+            "drive_type": "AWD",
+            "transmission": "Automatic"
+        },
+        "E": {
+            "drive_type": "4WD",
+            "transmission": "Automatic"
+        },
+        "F": {
+            "drive_type": "Hybrid FWD",
+            "transmission": "eCVT"
+        },
+        "G": {
+            "drive_type": "Hybrid AWD",
+            "transmission": "eCVT"
+        }
+    },
+    "year_codes": {
+        "A": 2010,
+        "B": 2011,
+        "C": 2012,
+        "D": 2013,
+        "E": 2014,
+        "F": 2015,
+        "G": 2016,
+        "H": 2017,
+        "J": 2018,
+        "K": 2019,
+        "L": 2020,
+        "M": 2021,
+        "N": 2022,
+        "P": 2023,
+        "R": 2024,
+        "S": 2025,
+        "T": 2026
+    }
+}
