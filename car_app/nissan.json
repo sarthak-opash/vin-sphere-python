@@ -1,0 +1,299 @@
+{
+    "manufacturer": "Nissan",
+    "wmi": {
+        "JN1": {
+            "manufacturer": "Nissan",
+            "country": "Japan",
+            "vehicle_type": "Passenger Car"
+        },
+        "JN3": {
+            "manufacturer": "Nissan",
+            "country": "Japan",
+            "vehicle_type": "Passenger Car"
+        },
+        "JN6": {
+            "manufacturer": "Nissan",
+            "country": "Japan",
+            "vehicle_type": "Truck"
+        },
+        "JN8": {
+            "manufacturer": "Nissan",
+            "country": "Japan",
+            "vehicle_type": "SUV"
+        },
+        "1N4": {
+            "manufacturer": "Nissan",
+            "country": "USA",
+            "vehicle_type": "Passenger Car"
+        },
+        "1N6": {
+            "manufacturer": "Nissan",
+            "country": "USA",
+            "vehicle_type": "Truck"
+        },
+        "1N8": {
+            "manufacturer": "Nissan",
+            "country": "USA",
+            "vehicle_type": "Passenger Car"
+        },
+        "3N1": {
+            "manufacturer": "Nissan",
+            "country": "Mexico",
+            "vehicle_type": "Passenger Car"
+        },
+        "3N6": {
+            "manufacturer": "Nissan",
+            "country": "Mexico",
+            "vehicle_type": "Truck"
+        },
+        "5N1": {
+            "manufacturer": "Nissan",
+            "country": "USA",
+            "vehicle_type": "SUV"
+        },
+        "5N3": {
+            "manufacturer": "Nissan",
+            "country": "USA",
+            "vehicle_type": "SUV"
+        },
+        "VSK": {
+            "manufacturer": "Nissan",
+            "country": "Spain",
+            "vehicle_type": "Commercial"
+        },
+        "MNT": {
+            "manufacturer": "Nissan",
+            "country": "Thailand",
+            "vehicle_type": "Passenger Car"
+        },
+        "MDH": {
+            "manufacturer": "Nissan",
+            "country": "India",
+            "vehicle_type": "Passenger Car"
+        },
+        "SJN": {
+            "manufacturer": "Nissan",
+            "country": "United Kingdom",
+            "vehicle_type": "Passenger Car"
+        },
+        "KNM": {
+            "manufacturer": "Nissan",
+            "country": "Korea",
+            "vehicle_type": "Passenger Car"
+        }
+    },
+    "position_4": {
+        "A": "Passenger Vehicle Series",
+        "B": "Compact Vehicle Series",
+        "C": "Performance Series",
+        "D": "Commercial Series",
+        "E": "Electric Vehicle Series",
+        "F": "Luxury Series",
+        "G": "Global Series",
+        "H": "Hybrid Series",
+        "J": "SUV Series",
+        "K": "Truck Series",
+        "L": "Sedan Series",
+        "M": "MPV Series",
+        "N": "Crossover Series",
+        "P": "Patrol Series",
+        "Q": "Qashqai Series",
+        "R": "Navara Series",
+        "S": "Sport Series",
+        "T": "Touring Series",
+        "U": "Utility Series",
+        "V": "Van Series",
+        "W": "Wagon Series",
+        "X": "X-Trail Series",
+        "Y": "SUV Series",
+        "Z": "Z Performance Series"
+    },
+    "position_5": {
+        "A": {
+            "body_type": "Sedan",
+            "possible_models": [
+                "Sunny",
+                "Sentra",
+                "Altima"
+            ]
+        },
+        "B": {
+            "body_type": "Hatchback",
+            "possible_models": [
+                "Micra",
+                "Tiida",
+                "Note"
+            ]
+        },
+        "C": {
+            "body_type": "Coupe",
+            "possible_models": [
+                "370Z",
+                "350Z",
+                "GT-R"
+            ]
+        },
+        "D": {
+            "body_type": "Pickup",
+            "possible_models": [
+                "Frontier",
+                "Navara"
+            ]
+        },
+        "E": {
+            "body_type": "Electric",
+            "possible_models": [
+                "Leaf"
+            ]
+        },
+        "F": {
+            "body_type": "SUV",
+            "possible_models": [
+                "Murano"
+            ]
+        },
+        "G": {
+            "body_type": "MPV",
+            "possible_models": [
+                "Quest"
+            ]
+        },
+        "H": {
+            "body_type": "MPV",
+            "possible_models": [
+                "Serena"
+            ]
+        },
+        "L": {
+            "body_type": "Sedan",
+            "possible_models": [
+                "Altima",
+                "Sentra",
+                "Maxima"
+            ]
+        },
+        "P": {
+            "body_type": "SUV",
+            "possible_models": [
+                "Patrol",
+                "Armada"
+            ]
+        },
+        "Q": {
+            "body_type": "SUV",
+            "possible_models": [
+                "Qashqai"
+            ]
+        },
+        "R": {
+            "body_type": "Pickup",
+            "possible_models": [
+                "Navara",
+                "NP300",
+                "Frontier"
+            ]
+        },
+        "S": {
+            "body_type": "SUV",
+            "possible_models": [
+                "Rogue Sport"
+            ]
+        },
+        "X": {
+            "body_type": "SUV",
+            "possible_models": [
+                "X-Trail"
+            ]
+        },
+        "Y": {
+            "body_type": "SUV",
+            "possible_models": [
+                "Rogue",
+                "X-Trail",
+                "Pathfinder",
+                "Murano"
+            ]
+        }
+    },
+    "position_6": {
+        "1": "1.2L Petrol",
+        "2": "1.5L Petrol",
+        "3": "2.0L Petrol",
+        "4": "2.5L Petrol",
+        "5": "3.5L V6",
+        "6": "5.6L V8",
+        "7": "1.5L Diesel",
+        "8": "2.5L Diesel",
+        "9": "Hybrid / Electric"
+    },
+    "position_7": {
+        "1": "4 Door Sedan",
+        "2": "2 Door Sedan",
+        "3": "Coupe",
+        "4": "2 Door Wagon",
+        "5": "4 Door Wagon",
+        "6": "Van",
+        "7": "SUV",
+        "A": "Base Trim",
+        "B": "S Trim",
+        "C": "SV Trim",
+        "D": "SL Trim",
+        "E": "Platinum Trim",
+        "N": "Advanced Safety Package",
+        "P": "Premium Safety Package",
+        "R": "Luxury Package"
+    },
+    "position_8": {
+        "A": {
+            "drive_type": "2WD",
+            "transmission": "Manual"
+        },
+        "B": {
+            "drive_type": "2WD",
+            "transmission": "Automatic"
+        },
+        "C": {
+            "drive_type": "FWD",
+            "transmission": "CVT"
+        },
+        "D": {
+            "drive_type": "AWD",
+            "transmission": "CVT"
+        },
+        "E": {
+            "drive_type": "4WD",
+            "transmission": "Automatic"
+        },
+        "P": {
+            "drive_type": "FWD",
+            "transmission": "CVT"
+        },
+        "V": {
+            "drive_type": "4WD",
+            "transmission": "Automatic"
+        },
+        "Y": {
+            "drive_type": "AWD",
+            "transmission": "CVT"
+        }
+    },
+    "year_codes": {
+        "A": 2010,
+        "B": 2011,
+        "C": 2012,
+        "D": 2013,
+        "E": 2014,
+        "F": 2015,
+        "G": 2016,
+        "H": 2017,
+        "J": 2018,
+        "K": 2019,
+        "L": 2020,
+        "M": 2021,
+        "N": 2022,
+        "P": 2023,
+        "R": 2024,
+        "S": 2025,
+        "T": 2026
+    }
+}
